@@ -24,6 +24,7 @@ ADDITIONAL FEATURE: Also does Kanye West quotes.
 ```!alert "price,ticker"```
 
 Creates notification for when currency reaches price. **Currently only works for when coin reaches higher price**
+
 Price and ticker should seperated by comma, without any spaces in between. 
 > Example: !alert 49700.5,btc
 
