@@ -10,7 +10,7 @@ defmodule Allybot.Application do
     children = [
       # Starts a worker by calling: Allybot.Worker.start_link(arg)
       # {Allybot.Worker, arg}
-      Allybot
+      MyBot
     ]
 
     # See https://hexdocs.pm/elixir/Supervisor.html
